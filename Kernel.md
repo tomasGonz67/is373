@@ -1,4 +1,7 @@
-# Kernel
+---
+title: Kernel
+order: 1
+---
 
 ## Definition
 The Kernel is the core part of the operating system that manages system resources and allows communication between software and hardware.
